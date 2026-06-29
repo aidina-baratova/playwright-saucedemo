@@ -38,7 +38,3 @@ npx playwright show-report
 ## Test Results
 
 3 tests — 3 passed on Chromium and Firefox.
-
-## About
-
-Built as part of my QA automation portfolio. I have 5 years of QA experience in fintech (M1 Finance, JPMorgan Chase) and am expanding into test automation.
